@@ -27,10 +27,11 @@ jobs:
           config_twemoji: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          extras_features: yes
-          extras_css: |
-            svg { background-color: #0d1117 !important; --color-text-link: #ff2a2a !important; --color-accent-fg: #ff2a2a !important; --color-icon-primary: #ff2a2a !important; }
-            .h2, h2, .title { color: #ff2a2a !important; fill: #ff2a2a !important; }
-            svg path { fill: #ff2a2a !important; }
-            .calendar rect[fill^="#"] { fill: #ff2a2a !important; }
-            .calendar rect[fill="#161b22"], .calendar rect[fill="#ebedf0"] { fill: #1f1215 !important; }
+      - name: Recolor SVG to Red-Fox Red
+        run: |
+          sed -i -E "s/#539bf5|#58a6ff|#39d353|#26a641/#ff2a2a/gi; s/#006d32|#0e4429/#991b1b/gi" generated/overview.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@://github.com"
+          git add generated/overview.svg
+          git commit -m "Recolor overview.svg to Red-Fox red" || true
+          git push || true
