@@ -139,9 +139,23 @@
     ],
     "overrides": {
       "Red-Fox_RECOVERYRMX3624": {
+        "icon": "settings_backup_restore",
         "description": "🦊 Custom OrangeFox 12.1 / TWRP Recovery for Realme C30/C33 (RMX3624 / ums9230)"
       },
+      "RedFox-Flasher": {
+        "icon": "terminal"
+      },
+      "RedFox-GKI-Kernel-Tecno-LI6": {
+        "icon": "memory"
+      },
+      "RMX3624-GKI-5.4-Kernel": {
+        "icon": "memory"
+      },
+      "RedFox-Manager": {
+        "icon": "brand:android"
+      },
       "RedFoxGram": {
+        "icon": "brand:telegram",
         "description": "🦊 Custom Open-Source Android Telegram Client based on exteraGram with RedFox Material Design"
       }
     },
