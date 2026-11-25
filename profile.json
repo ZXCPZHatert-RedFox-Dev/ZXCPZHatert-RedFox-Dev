@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Привет, я Developer",
     "name": "ZXCPZHatert-RedFox-Dev",
-    "subtitle": "Android Kernel & Recovery Developer | Экосистема RedFox (GKI Kernels, Recovery, Manager, Flasher) для Realme RMX3624, Tecno LI6 и других кру",
+    "subtitle": "Android Kernel & Recovery Developer | Экосистема RedFox (GKI Kernels, Recovery, Manager, Flasher) для Realme RMX3624, Tecno LI6 и других крутых проектов.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -36,7 +36,7 @@
     "items": [
       {
         "icon": "code",
-        "label": "Создатель экосистемы RedFox (Kernel, Recovery, Flasher, Gram"
+        "label": "Создатель экосистемы RedFox (Kernel, Recovery, Flasher, RedFoxGram)"
       },
       {
         "icon": "palette",
@@ -135,9 +135,16 @@
       "RedFox-GKI-Kernel-Tecno-LI6",
       "RMX3624-GKI-5.4-Kernel",
       "RedFox-Manager",
-      "Quickshell-Vault"
+      "RedFoxGram"
     ],
-    "overrides": {},
+    "overrides": {
+      "Red-Fox_RECOVERYRMX3624": {
+        "description": "🦊 Custom OrangeFox 12.1 / TWRP Recovery for Realme C30/C33 (RMX3624 / ums9230)"
+      },
+      "RedFoxGram": {
+        "description": "🦊 Custom Open-Source Android Telegram Client based on exteraGram with RedFox Material Design"
+      }
+    },
     "empty": "Описания пока нет.",
     "fork": "Fork"
   },
@@ -177,8 +184,8 @@
     "items": [
       {
         "icon": "language",
-        "label": "Мой сайт",
-        "url": "https://example.com",
+        "label": "Мой Telegram",
+        "url": "https://t.me/ZXCPZHRTU",
         "style": "filled"
       },
       {
