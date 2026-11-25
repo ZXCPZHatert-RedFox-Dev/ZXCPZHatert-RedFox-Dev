@@ -29,7 +29,7 @@ jobs:
           plugin_isocalendar_duration: half-year
       - name: Recolor SVG to Red-Fox Red
         run: |
-          sed -i -E "s/#539bf5|#58a6ff|#39d353|#26a641/#ff2a2a/gi; s/#006d32|#0e4429/#991b1b/gi" generated/overview.svg
+          sed -i -E "s/#539bf5|#58a6ff|#39d353|#26a641|#40c463|#30a14e|#216e39|#9be9a8/#ff2a2a/gi; s/#006d32|#0e4429/#991b1b/gi; s/#8b949e/#ff6b6b/gi; s/#adbac7|#cdd9e5/#ff8787/gi" generated/overview.svg
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@://github.com"
           git add generated/overview.svg
