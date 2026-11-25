@@ -21,21 +21,13 @@
   "hero": {
     "greeting": "Привет, я Developer",
     "name": "ZXCPZHatert-RedFox-Dev",
-    "subtitle": "Android Kernel & Recovery Developer | Экосистема RedFox (GKI Kernels, Recovery, Manager, Flasher) для Realme RMX3624, Tecno LI6 и других крутых проектов.",
+    "subtitle": "Android Kernel & Recovery Developer | Экосистема RedFox (GKI Kernels, Recovery, Manager, Flasher) для Realme RMX3624, Tecno LI6 и других кру",
     "typing": true,
-    "avatarShape": "sunny",
+    "avatarShape": "flower",
     "chips": [
       {
         "icon": "star",
         "label": "C > C++ > Java > Python > Arch Linux > Android"
-      },
-      {
-        "icon": "smartphone",
-        "label": "Realme RMX3624 · Tecno LI6"
-      },
-      {
-        "icon": "bolt",
-        "label": "GKI Kernels · OrangeFox · KernelSU"
       }
     ]
   },
@@ -44,19 +36,15 @@
     "items": [
       {
         "icon": "code",
-        "label": "Создатель экосистемы RedFox: кастомные ядра, рекавери, прошивальщик и Android-клиенты"
-      },
-      {
-        "icon": "memory",
-        "label": "Разработка GKI 5.4 / 5.10 ядер с интеграцией KernelSU, SuSFS и драйверами экрана 4095"
+        "label": "Создатель экосистемы RedFox (Kernel, Recovery, Flasher, Gram"
       },
       {
         "icon": "palette",
-        "label": "Обожаю Material Design · Работаю в Arch Linux · Устройства: Realme RMX3624 & Tecno LI6"
+        "label": "Обожаю Material Design · Работаю в Arch Linux · Устройства: Realme RMX3624 & Tecno Li6"
       },
       {
         "icon": "favorite",
-        "label": "Превращаю сложные системные задачи в быстрые и удобные open-source инструменты"
+        "label": "Android Kernel & Custom Recovery Developer · Превращаю идеи в крутые проекты · Экспериментирую с системой и создаю крутые разработки для Android"
       }
     ]
   },
@@ -147,34 +135,32 @@
       "RedFox-GKI-Kernel-Tecno-LI6",
       "RMX3624-GKI-5.4-Kernel",
       "RedFox-Manager",
-      "RedFoxGram",
-      "Quickshell-Vault",
-      "ZXCPZHatert-RedFox-Dev"
+      "RedFoxGram"
     ],
     "overrides": {
       "Red-Fox_RECOVERYRMX3624": {
-        "icon": "brand:android"
+        "icon": "android",
+        "shape": "cookie"
       },
       "RedFox-Flasher": {
-        "icon": "brand:gnubash"
+        "icon": "brand:gnubash",
+        "shape": "clover"
       },
       "RedFox-GKI-Kernel-Tecno-LI6": {
-        "icon": "brand:linux"
+        "icon": "brand:linux",
+        "shape": "gem"
       },
       "RMX3624-GKI-5.4-Kernel": {
-        "icon": "brand:linux"
+        "icon": "brand:archlinux",
+        "shape": "sunny"
       },
       "RedFox-Manager": {
-        "icon": "brand:kotlin"
+        "icon": "brand:android",
+        "shape": "flower"
       },
       "RedFoxGram": {
-        "icon": "brand:telegram"
-      },
-      "Quickshell-Vault": {
-        "icon": "brand:linux"
-      },
-      "ZXCPZHatert-RedFox-Dev": {
-        "icon": "brand:github"
+        "icon": "brand:telegram",
+        "shape": "cookie12"
       }
     },
     "empty": "Описания пока нет.",
@@ -208,7 +194,7 @@
         "url": "https://discord.com/users/1089842229838876702"
       }
     ],
-    "variant": "labeled",
+    "variant": "icon",
     "fill": "outlined",
     "card": true
   },
@@ -216,8 +202,8 @@
     "items": [
       {
         "icon": "language",
-        "label": "Мой Telegram",
-        "url": "https://t.me/ZXCPZHRTU",
+        "label": "Мой сайт",
+        "url": "https://example.com",
         "style": "filled"
       },
       {
