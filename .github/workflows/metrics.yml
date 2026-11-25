@@ -23,6 +23,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
+          config_display: dark
+          config_twemoji: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          config_twemoji: yes
+          extras_features: yes
+          extras_css: |
+            svg { background-color: #0d1117 !important; border-radius: 12px; }
+            .h2, h2, .title { color: #ff3b3b !important; fill: #ff3b3b !important; }
+            svg path[fill="#58a6ff"], svg path[fill="#8b949e"] { fill: #ff3b3b !important; }
+            .calendar rect[fill="#39d353"], .calendar rect[fill="#26a641"] { fill: #ff3b3b !important; }
+            .calendar rect[fill="#006d32"], .calendar rect[fill="#0e4429"] { fill: #991b1b !important; }
