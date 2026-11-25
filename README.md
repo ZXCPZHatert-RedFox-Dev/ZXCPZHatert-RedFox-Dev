@@ -14,6 +14,8 @@
 
 <a href="https://github.com/ZXCPZHatert-RedFox-Dev/RedFox-Manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-redfox-manager-dark.svg"><img src="assets/project-redfox-manager-light.svg" width="49%" alt="RedFox-Manager"></picture></a>&nbsp;<a href="https://github.com/ZXCPZHatert-RedFox-Dev/RedFoxGram"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-redfoxgram-dark.svg"><img src="assets/project-redfoxgram-light.svg" width="49%" alt="RedFoxGram"></picture></a>
 
+<a href="https://github.com/ZXCPZHatert-RedFox-Dev/Quickshell-Vault"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-quickshell-vault-dark.svg"><img src="assets/project-quickshell-vault-light.svg" width="49%" alt="Quickshell-Vault"></picture></a>&nbsp;<a href="https://github.com/ZXCPZHatert-RedFox-Dev/ZXCPZHatert-RedFox-Dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zxcpzhatert-redfox-dev-dark.svg"><img src="assets/project-zxcpzhatert-redfox-dev-light.svg" width="49%" alt="ZXCPZHatert-RedFox-Dev"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Серия"></picture>
