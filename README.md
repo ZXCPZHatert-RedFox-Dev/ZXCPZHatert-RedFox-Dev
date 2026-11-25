@@ -5,10 +5,5 @@
 - 💻 Работаю на **Arch Linux**, интересуюсь модификацией Android, ядрами и прошивками
 
 <p align="left">
-  <img src="https://vercel.app" alt="Статистика GitHub" height="175" />
-  <img src="https://vercel.app" alt="Популярные языки" height="175" />
-</p>
-
-<p align="left">
-  <img src="https://demolab.com" alt="Серия коммитов" />
+  <img src="./generated/overview.svg" alt="Статистика профиля ZXCPZHatert-RedFox-Dev" />
 </p>
