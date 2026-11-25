@@ -28,6 +28,14 @@
       {
         "icon": "star",
         "label": "C > C++ > Java > Python > Arch Linux > Android"
+      },
+      {
+        "icon": "smartphone",
+        "label": "Realme RMX3624 · Tecno LI6"
+      },
+      {
+        "icon": "bolt",
+        "label": "GKI Kernels · OrangeFox · KernelSU"
       }
     ]
   },
@@ -36,15 +44,19 @@
     "items": [
       {
         "icon": "code",
-        "label": "Создатель экосистемы RedFox (Kernel, Recovery, Flasher, RedFoxGram)"
+        "label": "Создатель экосистемы RedFox: кастомные ядра, рекавери, прошивальщик и Android-клиенты"
+      },
+      {
+        "icon": "memory",
+        "label": "Разработка GKI 5.4 / 5.10 ядер с интеграцией KernelSU, SuSFS и драйверами экрана 4095"
       },
       {
         "icon": "palette",
-        "label": "Обожаю Material Design · Работаю в Arch Linux · Устройства: Realme RMX3624 & Tecno Li6"
+        "label": "Обожаю Material Design · Работаю в Arch Linux · Устройства: Realme RMX3624 & Tecno LI6"
       },
       {
         "icon": "favorite",
-        "label": "Android Kernel & Custom Recovery Developer · Превращаю идеи в крутые проекты · Экспериментирую с системой и создаю крутые разработки для Android"
+        "label": "Превращаю сложные системные задачи в быстрые и удобные open-source инструменты"
       }
     ]
   },
@@ -135,7 +147,9 @@
       "RedFox-GKI-Kernel-Tecno-LI6",
       "RMX3624-GKI-5.4-Kernel",
       "RedFox-Manager",
-      "RedFoxGram"
+      "RedFoxGram",
+      "Quickshell-Vault",
+      "ZXCPZHatert-RedFox-Dev"
     ],
     "overrides": {
       "Red-Fox_RECOVERYRMX3624": {
@@ -155,6 +169,12 @@
       },
       "RedFoxGram": {
         "icon": "brand:telegram"
+      },
+      "Quickshell-Vault": {
+        "icon": "brand:linux"
+      },
+      "ZXCPZHatert-RedFox-Dev": {
+        "icon": "brand:github"
       }
     },
     "empty": "Описания пока нет.",
@@ -188,7 +208,7 @@
         "url": "https://discord.com/users/1089842229838876702"
       }
     ],
-    "variant": "icon",
+    "variant": "labeled",
     "fill": "outlined",
     "card": true
   },
