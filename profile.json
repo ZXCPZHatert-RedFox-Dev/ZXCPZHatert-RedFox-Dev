@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "login": "ZXCPZHatert-RedFox-Dev",
+  "seed": "#F60304",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Привет, я Developer",
+    "name": "ZXCPZHatert-RedFox-Dev",
+    "subtitle": "Android Kernel & Recovery Developer | Экосистема RedFox (GKI Kernels, Recovery, Manager, Flasher) для Realme RMX3624, Tecno LI6 и других кру",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "star",
+        "label": "C > C++ > Java > Python > Arch Linux > Android"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "code",
+        "label": "Создатель экосистемы RedFox (Kernel, Recovery, Flasher, Gram"
+      },
+      {
+        "icon": "palette",
+        "label": "Обожаю Material Design · Работаю в Arch Linux · Устройства: Realme RMX3624 & Tecno Li6"
+      },
+      {
+        "icon": "favorite",
+        "label": "Android Kernel & Custom Recovery Developer · Превращаю идеи в крутые проекты · Экспериментирую с системой и создаю крутые разработки для Android"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:cplusplus",
+            "label": "C"
+          },
+          {
+            "icon": "brand:cplusplusbuilder",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:nushell",
+            "label": "Shell"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "terminal_2",
+            "label": "QuickShell"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch Linux"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          },
+          {
+            "icon": "window",
+            "label": "Windows"
+          },
+          {
+            "icon": "brand:llvm",
+            "label": "Clang"
+          },
+          {
+            "icon": "brand:llvm",
+            "label": "LLVM"
+          },
+          {
+            "icon": "brand:gradle",
+            "label": "Gradle"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Red-Fox_RECOVERYRMX3624",
+      "RedFox-Flasher",
+      "RedFox-GKI-Kernel-Tecno-LI6",
+      "RMX3624-GKI-5.4-Kernel",
+      "RedFox-Manager",
+      "Quickshell-Vault"
+    ],
+    "overrides": {},
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/ZXCPZHRTU"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1089842229838876702"
+      }
+    ],
+    "variant": "icon",
+    "fill": "outlined",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Мой сайт",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
