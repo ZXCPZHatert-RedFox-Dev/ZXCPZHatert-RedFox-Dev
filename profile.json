@@ -139,19 +139,19 @@
     ],
     "overrides": {
       "Red-Fox_RECOVERYRMX3624": {
-        "icon": "settings_backup_restore"
+        "icon": "brand:android"
       },
       "RedFox-Flasher": {
-        "icon": "terminal"
+        "icon": "brand:gnubash"
       },
       "RedFox-GKI-Kernel-Tecno-LI6": {
-        "icon": "memory"
+        "icon": "brand:linux"
       },
       "RMX3624-GKI-5.4-Kernel": {
-        "icon": "memory"
+        "icon": "brand:linux"
       },
       "RedFox-Manager": {
-        "icon": "brand:android"
+        "icon": "brand:kotlin"
       },
       "RedFoxGram": {
         "icon": "brand:telegram"
