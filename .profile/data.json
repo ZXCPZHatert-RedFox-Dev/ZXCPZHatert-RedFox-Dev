@@ -1,0 +1,197 @@
+{
+ "key": "ba4fcfe",
+ "stars": 0,
+ "contributions": 266,
+ "repos": 8,
+ "followers": 0,
+ "languages": [
+  [
+   "Kotlin",
+   45324
+  ],
+  [
+   "Lua",
+   13419
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 30,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 53,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 44,
+    "day": 24,
+    "today": false
+   },
+   {
+    "c": 84,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 4,
+  "longest": 4
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "ZXCPZHatert-RedFox-Dev",
+   "url": "https://github.com/ZXCPZHatert-RedFox-Dev/ZXCPZHatert-RedFox-Dev",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "RedFoxGram",
+   "url": "https://github.com/ZXCPZHatert-RedFox-Dev/RedFoxGram",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "RedFox-Manager",
+   "url": "https://github.com/ZXCPZHatert-RedFox-Dev/RedFox-Manager",
+   "text": "Native Android Kernel & System Control App for Realme C33 (RMX3624) with KernelSU support",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "RedFox-Flasher",
+   "url": "https://github.com/ZXCPZHatert-RedFox-Dev/RedFox-Flasher",
+   "text": "Interactive CLI flasher, backup & telemetry tool for Realme C33 (RMX3624) on Arch Linux",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "RedFox-GKI-Kernel-Tecno-LI6",
+   "url": "https://github.com/ZXCPZHatert-RedFox-Dev/RedFox-GKI-Kernel-Tecno-LI6",
+   "text": "🦊 Universal GKI 2.0 (android12-5.10) Kernel for Tecno Pova 6 Neo (LI6) & any android12-5.10 ARM64 device with KernelSU + SuSFS, TCP BBR & ZRAM ZSTD",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Quickshell-Vault",
+   "url": "https://github.com/ZXCPZHatert-RedFox-Dev/Quickshell-Vault",
+   "text": "My Quickshell themes collection, Hyprland Lua config and switcher",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "RMX3624-GKI-5.4-Kernel",
+   "url": "https://github.com/ZXCPZHatert-RedFox-Dev/RMX3624-GKI-5.4-Kernel",
+   "text": "🦊 Custom GKI 5.4 Kernel for Realme C30/C33 (RMX3624 / ums9230) with Native 4095 Brightness, KernelSU + SuSFS & A16/A17 GSI support",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Red-Fox_RECOVERYRMX3624",
+   "url": "https://github.com/ZXCPZHatert-RedFox-Dev/Red-Fox_RECOVERYRMX3624",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  }
+ ]
+}
